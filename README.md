@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @RAJU-VUGGINA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Data science and Machine Learning
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on any NLP projects
+- 📫 How to reach me vugginaraju@gmail.com
+  
+- ⚡ Fun fact:  Neural Networks: Inspired by the human brain, neural networks have neurons and layers. But unlike humans, they need millions of examples to recognize a cat—it’s the "extremely dedicated student" of ML!
+
+
 
 <!---
-RAJU-VUGGINA/RAJU-VUGGINA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
